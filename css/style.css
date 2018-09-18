@@ -32,6 +32,13 @@ h1 {
     color: white;
 }
 
+.flex-container {
+  display: flex;
+}
+
+#channels{
+	 justify-content:flex-start;
+	 }
 
 /* CHANNELS LIST */
 

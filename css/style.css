@@ -77,6 +77,8 @@ ul {
     background-color: white;
     /* #3 #channels #bullets removed */
     list-style-type: none;
+	/*position: fixed;
+	top:100:*/
 }
 
 li {

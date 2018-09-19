@@ -104,6 +104,8 @@ li img {
 
 /* #4 #sweat #tab-bar */
 #tab-bar {
+	display: flex;
+	justify-content: space-between;
     /* #3 #tab-bar #container should be white */
     background-color: white;
     /* #3 #tab-bar #container has all buttons centered */

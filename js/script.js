@@ -1,1 +1,5 @@
-console.log('app is alive') 
+console.log('app is alive');
+
+function switchChannel(channelName){
+  console.log('Tuning into channel ' + channelName);
+}
